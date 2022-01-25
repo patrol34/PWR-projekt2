@@ -7,8 +7,7 @@ Android Studio
 Gra na system Android - mini quiz + parowanie elementów
 Założenia:
  - wprowadzenie gracza (nazwa, kolor gracza)
- - odblokowywanie poziomów po ukończeniu poprzedniego
  - trzy poziomy rozgrywki przy parowaniu elementów
  - 10 pytań quizu 
+ - pytania do quizu z bazy danych
  - system punktacji
- - ranking z poprzednimi graczami
